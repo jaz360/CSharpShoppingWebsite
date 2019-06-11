@@ -6,3 +6,6 @@ The goal of this project is building a web application that will be built on C# 
 
 # Instruction on how to run
 Download the files and run the sln file you must have IIS server up and running
+
+
+![alt text](https://imgur.com/eOAtVTS)
